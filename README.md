@@ -1,6 +1,6 @@
 # SongPlaylist
 ------------------------------------------------------------------------------
-   Name:     SongPlaylist
+/*   Name:     SongPlaylist
    Author:   Nhi Nguyen
    Date:     Mar 16, 2023
    Language: Java
@@ -12,5 +12,5 @@
 ------------------------------------------------------------------------------
    ChangeLog:
    Who:      Nhi Nguyen            Date:     Mar 16, 2023
-   Desc.:    This is the original version of the code.
+   Desc.:    This is the original version of the code. */
 ------------------------------------------------------------------------------
