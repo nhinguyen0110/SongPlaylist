@@ -1,0 +1,21 @@
+Playlist Name: Nhi's Playlist
+Song 01:
+The name of the song: Song 11
+The name of the artist: Art 11
+The duration of the song: 5.60
+The genre of the song: pop
+Song 11:
+The name of the song: song 2
+The name of the artist: art 2
+The duration of the song: 3.40
+The genre of the song: pop
+Song 21:
+The name of the song: SOng 3
+The name of the artist: Art 1
+The duration of the song: 5.60
+The genre of the song: Rock
+Playlist information summary:
+Number of songs: 3
+Total duration: 13
+Average song duration: 4.33
+Song count by genre: pop: 2Rock: 1

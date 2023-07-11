@@ -1,0 +1,56 @@
+Playlist Name: nhi
+Song 1:
+The name of the song: s1
+The name of the artist: a1
+The duration of the song: 2.30
+The genre of the song: pop
+Song 2:
+The name of the song: s2
+The name of the artist: a2
+The duration of the song: 2.30
+The genre of the song: pop
+Song 3:
+The name of the song: s3
+The name of the artist: a3
+The duration of the song: 3.40
+The genre of the song: pop
+Song 4:
+The name of the song: s4
+The name of the artist: a4
+The duration of the song: 3.60
+The genre of the song: pop
+Song 5:
+The name of the song: s5
+The name of the artist: a5
+The duration of the song: 3.40
+The genre of the song: pop
+Song 6:
+The name of the song: s6
+The name of the artist: a6
+The duration of the song: 3.20
+The genre of the song: pop
+Song 7:
+The name of the song: s7
+The name of the artist: a7
+The duration of the song: 3.20
+The genre of the song: pop
+Song 8:
+The name of the song: s8
+The name of the artist: a8
+The duration of the song: 2.30
+The genre of the song: pop
+Song 9:
+The name of the song: s9
+The name of the artist: a9
+The duration of the song: 2.10
+The genre of the song: pop
+Song 10:
+The name of the song: s10
+The name of the artist: a10
+The duration of the song: 2.30
+The genre of the song: pop
+Playlist information summary:
+Number of songs: 10
+Total duration: 25
+Average song duration: 2.5
+Song count by genre: pop: 10
